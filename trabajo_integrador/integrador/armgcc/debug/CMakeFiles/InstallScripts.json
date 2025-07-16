@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/cmake_install.cmake",
+		"/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/freertos/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

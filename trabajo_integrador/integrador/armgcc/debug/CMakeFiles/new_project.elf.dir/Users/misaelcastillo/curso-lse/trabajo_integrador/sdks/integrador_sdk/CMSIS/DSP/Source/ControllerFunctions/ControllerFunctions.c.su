@@ -1,0 +1,8 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_pid_init_f32.c:50:24:arm_pid_init_f32	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_pid_init_q15.c:50:24:arm_pid_init_q15	56	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_pid_init_q31.c:50:24:arm_pid_init_q31	176	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_pid_reset_f32.c:44:24:arm_pid_reset_f32	16	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_pid_reset_q15.c:44:24:arm_pid_reset_q15	16	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_pid_reset_q31.c:44:24:arm_pid_reset_q31	16	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_sin_cos_f32.c:44:24:arm_sin_cos_f32	88	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/DSP/Source/ControllerFunctions/arm_sin_cos_q31.c:50:24:arm_sin_cos_q31	456	static

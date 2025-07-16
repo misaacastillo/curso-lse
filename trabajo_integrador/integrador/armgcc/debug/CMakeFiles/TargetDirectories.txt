@@ -1,0 +1,6 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/CMakeFiles/new_project.elf.dir
+/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/CMakeFiles/edit_cache.dir
+/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/CMakeFiles/rebuild_cache.dir
+/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/freertos/CMakeFiles/freertos.dir
+/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/freertos/CMakeFiles/edit_cache.dir
+/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug/freertos/CMakeFiles/rebuild_cache.dir

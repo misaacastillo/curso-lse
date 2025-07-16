@@ -1,0 +1,3 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c:43:37:depthwise_conv_s16_mult_4_s16	408	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c:133:13:depthwise_conv_s16_generic_s16	192	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_depthwise_conv_s16.c:244:21:arm_depthwise_conv_s16	176	static

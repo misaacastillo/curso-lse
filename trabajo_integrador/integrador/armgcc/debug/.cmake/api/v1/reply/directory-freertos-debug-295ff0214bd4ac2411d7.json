@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "freertos",
+		"source" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/freertos"
+	}
+}

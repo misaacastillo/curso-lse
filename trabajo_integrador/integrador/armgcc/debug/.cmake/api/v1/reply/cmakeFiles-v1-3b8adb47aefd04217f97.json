@@ -1,0 +1,295 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/4.0.1/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/tools/cmake_toolchain_files/armgcc.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/tools/cmake_toolchain_files/mcux_config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/4.0.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/4.0.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Internal/CMakeCLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Platform/Generic.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "debug/CMakeFiles/4.0.1/CMakeASMCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/CMakeASMInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/GNU-ASM.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/share/cmake/Modules/Internal/CMakeASMLinkerInformation.cmake"
+		},
+		{
+			"path" : "flags.cmake"
+		},
+		{
+			"path" : "config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/all_lib_device.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/Core/Include/CMSIS_Include_core_cm.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/uart/component_miniusart_adapter.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/device_CMSIS.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/device_startup.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/device_system.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_capt.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_clock.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_common.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_inputmux.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_inputmux_connections.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_lpc_adc.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_lpc_gpio.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_lpc_i2c.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_lpc_iocon_lite.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_lpc_miniusart.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_pint.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_power.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_reset.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_sctimer.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_swm.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_swm_connections.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_syscon.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/driver_syscon_connections.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/utilities/utilities_misc_utilities.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/utilities/debug_console_lite/utility_assert_lite.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/utilities/utility_debug_console_lite.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/utilities/utility_str.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/freertos/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc/debug",
+		"source" : "/Users/misaelcastillo/curso-lse/trabajo_integrador/integrador/armgcc"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

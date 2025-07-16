@@ -1,0 +1,5 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/i2c/muxes/fsl_pca954x.c:139:6:PCA954X_Init	16	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/i2c/muxes/fsl_pca954x.c:162:17:PCA954X_RegWrite	40	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/i2c/muxes/fsl_pca954x.c:168:16:PCA954X_RegVal	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/i2c/muxes/fsl_pca954x.c:183:10:PCA954X_SelectChan	32	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/i2c/muxes/fsl_pca954x.c:199:10:PCA954X_DeselectMux	24	static

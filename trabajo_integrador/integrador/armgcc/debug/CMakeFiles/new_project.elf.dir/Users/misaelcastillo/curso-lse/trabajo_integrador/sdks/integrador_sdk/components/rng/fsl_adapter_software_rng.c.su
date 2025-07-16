@@ -1,0 +1,5 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/rng/fsl_adapter_software_rng.c:10:18:HAL_RngInit	8	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/rng/fsl_adapter_software_rng.c:15:6:HAL_RngDeinit	8	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/rng/fsl_adapter_software_rng.c:20:18:HAL_RngHwGetData	16	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/rng/fsl_adapter_software_rng.c:27:18:HAL_RngGetData	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/rng/fsl_adapter_software_rng.c:40:18:HAL_RngSetSeed	16	static

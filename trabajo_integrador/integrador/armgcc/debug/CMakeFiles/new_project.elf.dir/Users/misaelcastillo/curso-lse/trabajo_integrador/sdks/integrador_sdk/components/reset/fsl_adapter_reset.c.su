@@ -1,0 +1,2 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/Core/Include/./core_cm0plus.h:1003:34:__NVIC_SystemReset	8	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/reset/fsl_adapter_reset.c:27:6:HAL_ResetMCU	8	static

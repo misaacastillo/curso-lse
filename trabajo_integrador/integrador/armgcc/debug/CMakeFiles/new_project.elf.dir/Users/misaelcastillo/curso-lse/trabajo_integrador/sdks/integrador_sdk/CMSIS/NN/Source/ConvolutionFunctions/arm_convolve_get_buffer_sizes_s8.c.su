@@ -1,0 +1,8 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:44:25:arm_convolve_s8_get_buffer_size_mve	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:55:25:arm_convolve_1_x_n_s8_get_buffer_size_mve	88	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:86:9:arm_convolve_s8_get_buffer_size	32	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:98:9:arm_convolve_1_x_n_s8_get_buffer_size	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:113:9:arm_convolve_1x1_s8_fast_get_buffer_size	16	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:126:9:arm_convolve_wrapper_s8_get_buffer_size	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:159:9:arm_convolve_wrapper_s8_get_buffer_size_mve	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/CMSIS/NN/Source/ConvolutionFunctions/arm_convolve_get_buffer_sizes_s8.c:188:9:arm_convolve_wrapper_s8_get_buffer_size_dsp	24	static

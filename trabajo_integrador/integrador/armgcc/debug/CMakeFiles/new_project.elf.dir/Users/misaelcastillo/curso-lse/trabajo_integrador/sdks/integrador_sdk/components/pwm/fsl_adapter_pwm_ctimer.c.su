@@ -1,0 +1,5 @@
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/devices/LPC845/drivers/./fsl_ctimer.h:517:20:CTIMER_StartTimer	16	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/pwm/fsl_adapter_pwm_ctimer.c:38:18:HAL_PwmInit	48	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/pwm/fsl_adapter_pwm_ctimer.c:59:6:HAL_PwmDeinit	24	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/pwm/fsl_adapter_pwm_ctimer.c:82:18:HAL_PwmSetupPwm	56	static
+/Users/misaelcastillo/curso-lse/trabajo_integrador/sdks/integrador_sdk/components/pwm/fsl_adapter_pwm_ctimer.c:110:18:HAL_PwmUpdateDutycycle	32	static
