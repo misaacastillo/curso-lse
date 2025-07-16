@@ -1,4 +1,4 @@
-# curso-lse
+# Curso-lse
 Repositorio para el curso de Sistemas Embebidos UTN
 
 ### Misael Castillo
